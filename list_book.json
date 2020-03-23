@@ -1,1 +1,1 @@
-{"1":{"id":"1","writter_name":"Стивен Кинг","books":[{"book_name":"Cияние","price":250},{"book_name":"Бессоница","price":550}]},"5":{"id":"5","name":"Три товарища","writterId":5,"writterName":"Эрих Мария Ремарк","year":1936,"price":250}}
+{"1":{"id":"1","writter_name":"Стивен Кинг","books":[{"id":3,"book_name":"Бессоница","year":1994,"price":550},{"id":1,"book_name":"Оно","year":1986,"price":700},{"id":2,"book_name":"Сияние","year":2000,"price":250}]},"5":{"id":"5","name":"Три товарища","writterId":5,"writterName":"Эрих Мария Ремарк","year":1936,"price":250}}
